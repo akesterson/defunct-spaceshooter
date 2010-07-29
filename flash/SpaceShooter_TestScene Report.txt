@@ -1,0 +1,57 @@
+SpaceShooter_TestScene.swf Movie Report
+----------------------------------------
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    ----------------
+      1        1662642        1662642    TestScene (AS 2.0 Classes Export Frame)
+
+Scene                        Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+TitleScene                             0             0                     0
+GameScene                              0             0                     0
+GameOverScene                          0             0                     0
+DeathScene                             0             0                     0
+CreditScene                            0             0                     0
+TestScene                              0             0                  1638
+
+Symbol                       Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+TitleScreen                            0             0                     0
+EnemyDestroyer1                        0             0                     0
+SpaceStation                           0             0                     0
+PlayerShip2                            0             0                     0
+PlayerShip1                            0             0                     0
+PlayerShipMenu                         0             0                     0
+EnemyFighter4                          0             0                     0
+EnemyFighter3                          0             0                     0
+EnemyFighter2                          0             0                     0
+EnemyFighter1                          0             0                     0
+Background                             0             0                     0
+EnemyDestroyer2                        0             0                     0
+
+ActionScript Bytes    Location
+------------------    --------
+              1638    TestScene:0:1
+
+Bitmap                     Compressed    Compression
+-----------------------    ----------  --------  -----------
+Star Destroyer 2.png            6609      127104   JPEG Quality=80
+Background.png                 13410     1228800   Lossless
+Enemy Fighter 2.png             1387        8448   JPEG Quality=80
+Enemy Fighter 3.png             2074       15744   JPEG Quality=80
+Enemy Fighter 4.png             1214        8640   JPEG Quality=80
+Player Ship 1.png               1176        6016   JPEG Quality=80
+Player Ship 2.png               1589        7296   JPEG Quality=80
+Space Station.png               4825       65536   JPEG Quality=80
+Star Destroyer 1.png           14407      186880   JPEG Quality=80
+
+Event Sounds: 11KHz Mono 16 kbps MP3
+
+
+Sound name                 Bytes        Format    
+-----------------------    ---------    ----------
+gamemusic                  1648028        11KHz Mono 16 kbps MP3
+
+
+
+

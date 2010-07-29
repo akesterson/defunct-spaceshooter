@@ -1,0 +1,78 @@
+SpaceShooter.swf Movie Report
+------------------------------
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    ----------------
+      1        7937830        7937830    MainScene (AS 2.0 Classes Export Frame)
+
+Scene                        Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+MainScene                              0             0                  8862
+
+Symbol                       Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+HelpBackground                         0             0                     0
+CreditsBackground                      0             0                     0
+FailBackground                         0             0                     0
+SmallExplosion                       790             0                    57
+Symbol 24                              0             0                     0
+PlayerLaserSingle                     83             0                     0
+PlayerLaserDouble                    144             0                     0
+EnemyLaserSingle                      81             0                     0
+EnemyLaserDouble                     143             0                     0
+GameScreen                             0             0                  1642
+TitleScreen                            0             0                   590
+TitleBackground                        0             0                     0
+EnemyDestroyer1                        0             0                     0
+SpaceStation                           0             0                     0
+PlayerShip2                            0             0                     0
+PlayerShip1                            0             0                     0
+PlayerShipMenu                         0             0                     0
+EnemyFighter4                          0             0                     0
+EnemyFighter3                          0             0                     0
+EnemyFighter2                          0             0                     0
+EnemyFighter1                          0             0                     0
+Background                             0             0                     0
+EnemyDestroyer2                        0             0                     0
+
+ActionScript Bytes    Location
+------------------    --------
+               590    TitleScreen:Layer 1:1
+              1642    GameScreen:Layer 1:1
+                57    SmallExplosion:Layer 1:61
+              8862    MainScene:0:1
+
+Bitmap                     Compressed    Compression
+-----------------------    ----------  --------  -----------
+Star Destroyer 2.png            6623      127104   JPEG Quality=80
+Background.png                 13439     1228800   Lossless
+Enemy Fighter 1.png             1348        8064   JPEG Quality=80
+Enemy Fighter 2.png             1390        8448   JPEG Quality=80
+Enemy Fighter 3.png             2078       15744   JPEG Quality=80
+Enemy Fighter 4.png             1217        8640   JPEG Quality=80
+Player Ship 1.png               1179        6016   JPEG Quality=80
+Player Ship 2.png               1593        7296   JPEG Quality=80
+Space Station.png               4836       65536   JPEG Quality=80
+Star Destroyer 1.png           14439      186880   JPEG Quality=80
+title screen.png               22091      786432   JPEG Quality=80
+explosion.png                  23565      582120   JPEG Quality=80
+fail background.png            29537      786432   JPEG Quality=80
+credits background.png         55100      786432   JPEG Quality=80
+help background.png            24335      786432   Lossless
+
+Event Sounds: 11KHz Mono 16 kbps MP3
+
+
+Sound name                 Bytes        Format    
+-----------------------    ---------    ----------
+titlemusic                 1643430        11KHz Mono 16 kbps MP3
+lasershot                    1367        11KHz Mono 16 kbps MP3
+gamemusic                  1648028        11KHz Mono 16 kbps MP3
+enemylasershot               1367        11KHz Mono 16 kbps MP3
+deathmusic                 115789        11KHz Mono 16 kbps MP3
+creditsmusic               4455459        11KHz Mono 16 kbps MP3
+EXPLODE.WAV                  4591        11KHz Mono 16 kbps MP3
+
+
+
+

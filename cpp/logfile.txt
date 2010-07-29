@@ -1,0 +1,36 @@
+Looping from 0 to 17 sprites...
+Trying to load sprite strip from (index 0) file sprites/Enemy Fighter 1.png
+Failed to load sprite strip from file sprites/Enemy Fighter 1.png
+Trying to load sprite strip from (index 1) file sprites/Enemy Fighter 2.png
+Failed to load sprite strip from file sprites/Enemy Fighter 2.png
+Trying to load sprite strip from (index 2) file sprites/Enemy Fighter 3.png
+Failed to load sprite strip from file sprites/Enemy Fighter 3.png
+Trying to load sprite strip from (index 3) file sprites/Enemy Fighter 4.png
+Failed to load sprite strip from file sprites/Enemy Fighter 4.png
+Trying to load sprite strip from (index 4) file sprites/Enemy Laser Single.png
+Failed to load sprite strip from file sprites/Enemy Laser Single.png
+Trying to load sprite strip from (index 5) file sprites/Enemy Laser Double.png
+Failed to load sprite strip from file sprites/Enemy Laser Double.png
+Trying to load sprite strip from (index 6) file sprites/Player Ship 1.png
+Failed to load sprite strip from file sprites/Player Ship 1.png
+Trying to load sprite strip from (index 7) file sprites/Player Ship 2.png
+Failed to load sprite strip from file sprites/Player Ship 2.png
+Trying to load sprite strip from (index 8) file sprites/Player Ship Menu.png
+Failed to load sprite strip from file sprites/Player Ship Menu.png
+Trying to load sprite strip from (index 9) file sprites/Player Shield Hit.png
+Failed to load sprite strip from file sprites/Player Shield Hit.png
+Trying to load sprite strip from (index 10) file sprites/Powerup - Shield Recharge.png
+Failed to load sprite strip from file sprites/Powerup - Shield Recharge.png
+Trying to load sprite strip from (index 11) file sprites/Powerup - Spread Shot.png
+Failed to load sprite strip from file sprites/Powerup - Spread Shot.png
+Trying to load sprite strip from (index 12) file sprites/Powerup - Bigger Ship.png
+Failed to load sprite strip from file sprites/Powerup - Bigger Ship.png
+Trying to load sprite strip from (index 13) file sprites/Powerup - One Up.png
+Failed to load sprite strip from file sprites/Powerup - One Up.png
+Trying to load sprite strip from (index 14) file sprites/Star Destroyer 1.png
+Failed to load sprite strip from file sprites/Star Destroyer 1.png
+Trying to load sprite strip from (index 15) file sprites/Star Destroyer 2.png
+Failed to load sprite strip from file sprites/Star Destroyer 2.png
+Trying to load sprite strip from (index 16) file sprites/explosion.png
+Failed to load sprite strip from file sprites/explosion.png
+Exiting normally

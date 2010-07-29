@@ -1,0 +1,58 @@
+SpaceShooter_TitleScreen.swf Movie Report
+------------------------------------------
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    ----------------
+      1        7794397        7794397    TitleScreen (AS 2.0 Classes Export Frame)
+
+Scene                        Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+MainScene                              0             0                     0
+
+Symbol                       Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+GameScreen                             0             0                  1644
+TitleScreen                            0             0                     0
+TitleBackground                        0             0                     0
+EnemyDestroyer1                        0             0                     0
+SpaceStation                           0             0                     0
+PlayerShip2                            0             0                     0
+PlayerShip1                            0             0                     0
+PlayerShipMenu                         0             0                     0
+EnemyFighter4                          0             0                     0
+EnemyFighter3                          0             0                     0
+EnemyFighter2                          0             0                     0
+EnemyFighter1                          0             0                     0
+Background                             0             0                     0
+EnemyDestroyer2                        0             0                     0
+
+ActionScript Bytes    Location
+------------------    --------
+              1644    GameScreen:Layer 1:1
+
+Bitmap                     Compressed    Compression
+-----------------------    ----------  --------  -----------
+Star Destroyer 2.png            6631      127104   JPEG Quality=80
+Background.png                 13455     1228800   Lossless
+Enemy Fighter 2.png             1391        8448   JPEG Quality=80
+Enemy Fighter 3.png             2081       15744   JPEG Quality=80
+Enemy Fighter 4.png             1218        8640   JPEG Quality=80
+Player Ship 1.png               1180        6016   JPEG Quality=80
+Player Ship 2.png               1595        7296   JPEG Quality=80
+Space Station.png               4842       65536   JPEG Quality=80
+Star Destroyer 1.png           14456      186880   JPEG Quality=80
+title screen.png               22118      786432   JPEG Quality=80
+
+Event Sounds: 11KHz Mono 16 kbps MP3
+
+
+Sound name                 Bytes        Format    
+-----------------------    ---------    ----------
+titlemusic                 1643430        11KHz Mono 16 kbps MP3
+gamemusic                  1648028        11KHz Mono 16 kbps MP3
+deathmusic                 115789        11KHz Mono 16 kbps MP3
+creditsmusic               4455459        11KHz Mono 16 kbps MP3
+
+
+
+

@@ -1,0 +1,44 @@
+SpaceShooter_Background.swf Movie Report
+-----------------------------------------
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    ----------------
+      1          45998          45998    Background (AS 2.0 Classes Export Frame)
+
+Scene                        Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+TitleScene                             0             0                     0
+GameScene                              0             0                     0
+GameOverScene                          0             0                     0
+DeathScene                             0             0                     0
+CreditScene                            0             0                     0
+TestScene                              0             0                     0
+
+Symbol                       Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+EnemyDestroyer1                        0             0                     0
+SpaceStation                           0             0                     0
+PlayerShip2                            0             0                     0
+PlayerShip1                            0             0                     0
+EnemyFighter4                          0             0                     0
+EnemyFighter3                          0             0                     0
+EnemyFighter2                          0             0                     0
+EnemyFighter1                          0             0                     0
+Background                             0             0                     0
+EnemyDestroyer2                        0             0                     0
+
+Bitmap                     Compressed    Compression
+-----------------------    ----------  --------  -----------
+Star Destroyer 2.png            6395      127104   JPEG Quality=80
+Background.png                 12977     1228800   Lossless
+Enemy Fighter 2.png             1342        8448   JPEG Quality=80
+Enemy Fighter 3.png             2007       15744   JPEG Quality=80
+Enemy Fighter 4.png             1175        8640   JPEG Quality=80
+Player Ship 1.png               1138        6016   JPEG Quality=80
+Player Ship 2.png               1538        7296   JPEG Quality=80
+Space Station.png               4669       65536   JPEG Quality=80
+Star Destroyer 1.png           13942      186880   JPEG Quality=80
+
+
+
+
