@@ -1,0 +1,6 @@
+spaceshooter
+============
+
+A space shooter I wrote in the style of 1942/Galaga. The game has both Adobe Flash (ActionScript 2) and C++ (using akesterson/libsdlgame ) ports.
+
+The Flash version is currently more complete; the C++ version is missing boss fights and level transitions. However the Flash version doesn't support gamepads or 2 players, while the C++ version does.
